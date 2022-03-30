@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandlerm23
 - 👀 I’m interested in RNA
-- 🌱 I’m currently learning RNA modifications in cancer
+- 🌱 I’m currently learning about RNA modifications in cancer
 - 💞️ I’m looking to collaborate on learning code.
 - 📫 How to reach me marianadalit@gmail.com
 
